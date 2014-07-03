@@ -131,10 +131,10 @@ msgid " (Radio)"
 msgstr " (Rádió)"
 
 msgid " (TV)"
-msgstr ""
+msgstr " (TV)"
 
 msgid " and"
-msgstr ""
+msgstr " és"
 
 #
 #, fuzzy
@@ -201,8 +201,8 @@ msgstr ""
 #, python-format
 msgid "%d Min"
 msgid_plural "%d Mins"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d Perc"
+msgstr[1] "%d Perc"
 
 #
 #. TRANSLATORS: Intermediate scanning result, '%d' channel(s) have been found so far
@@ -215,8 +215,8 @@ msgstr[1] "%d csatornát találtam!"
 #, python-format
 msgid "%d hour"
 msgid_plural "%d hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d óra"
+msgstr[1] "%d óra"
 
 #
 #, fuzzy, python-format
@@ -242,18 +242,18 @@ msgstr "%d perc"
 #, python-format
 msgid "%d minute"
 msgid_plural "%d minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d perc"
+msgstr[1] "%d perc"
 
 #, python-format
 msgid "%d minutes"
-msgstr ""
+msgstr "%d perc"
 
 #, python-format
 msgid "%d second"
 msgid_plural "%d seconds"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d másodperc"
+msgstr[1] "%d másodperc"
 
 #
 #, fuzzy, python-format
@@ -281,7 +281,7 @@ msgstr "%s %s formátumú adat DVD (HDTV kompatibilis)"
 
 #, python-format
 msgid "%s %s front panel"
-msgstr ""
+msgstr "%s %s előlap"
 
 #
 #, fuzzy, python-format
@@ -290,7 +290,7 @@ msgstr "Virtuális Billentyűzet"
 
 #, python-format
 msgid "%s %s ir mouse"
-msgstr ""
+msgstr "%s %s virtuális egér"
 
 #, fuzzy, python-format
 msgid "%s %s remote control (native)"
@@ -309,13 +309,13 @@ msgstr "%s (%s)\n"
 #. TRANSLATORS: The satellite with name '%s' is no longer used after a configuration change. The user is asked whether or not the satellite should be deleted.
 #, python-format
 msgid "%s is no longer used. Should it be deleted?"
-msgstr ""
+msgstr "%s régóta nincs használatban. Szeretné törölni?"
 
 #, python-format
 msgid "%s updated package available"
 msgid_plural "%s updated packages available"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s csomagfrissítések elérhetőek"
+msgstr[1] "%s csomagfrissítések elérhetőek"
 
 #
 #, fuzzy, python-format
@@ -328,13 +328,13 @@ msgstr ""
 
 #, python-format
 msgid "'%s' contains %d file(s) and %d sub-directories.\n"
-msgstr ""
+msgstr "%s' tartalmazza a %d file(okat) és %d alkönyvtárakat.\n"
 
 msgid "( All readers)"
-msgstr ""
+msgstr "( Összes olvasó)"
 
 msgid "(Show only reader:"
-msgstr ""
+msgstr "(Csak olvasó mutatása)"
 
 #
 msgid "(ZAP)"
@@ -349,7 +349,7 @@ msgid "(show optional DVD audio menu)"
 msgstr "(DVD audió menü megjelenítése, ha van)"
 
 msgid "* = Restart Required"
-msgstr ""
+msgstr "* = Újraindítás szükséges"
 
 #
 msgid "* Only available if more than one interface is active."
@@ -433,7 +433,7 @@ msgid "1X"
 msgstr ""
 
 msgid "1st Infobar timeout"
-msgstr ""
+msgstr "Első Infósáv megjelenítési idő"
 
 msgid "23.976"
 msgstr ""
@@ -460,7 +460,7 @@ msgid "30"
 msgstr "0"
 
 msgid "3D Mode"
-msgstr ""
+msgstr "3D Üzemmód"
 
 #
 #, fuzzy
@@ -468,13 +468,13 @@ msgid "3D Surround"
 msgstr "Hang"
 
 msgid "3D setup"
-msgstr ""
+msgstr "3D beállítás"
 
 msgid "3X"
 msgstr ""
 
 msgid "3d mode"
-msgstr ""
+msgstr "3d üzemmód"
 
 #
 msgid "4:3"
@@ -522,7 +522,7 @@ msgid "A"
 msgstr "A"
 
 msgid "A background update check is in progress, please wait a few minutes and try again."
-msgstr ""
+msgstr "Frissítés folyamatban a háttérben, kérem várjon néhány percet és próbálja újra"
 
 #, python-format
 msgid ""
