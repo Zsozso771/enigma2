@@ -1978,13 +1978,13 @@ msgid "Configure an additional delay to improve subtitle synchronisation."
 msgstr "Felírat szinkronizálásának konfigurálása"
 
 msgid "Configure duration of inactivity before the hard disk drive goes to standby"
-msgstr ""
+msgstr "Merevlemez készenléti állapotba való lépésének időtartama"
 
 msgid "Configure for how many minutes finished events should remain visible in the EPG. Useful when you need information about an event which has just finished, or has been delayed."
-msgstr ""
+msgstr "Konfigurálja, hogy mennyi ideig maradjon látható a már befejeződött műsor az EPG listában."
 
 msgid "Configure how recording filenames are constructed."
-msgstr ""
+msgstr "A felvétel file nevének beállítása."
 
 msgid "Configure if and how service type icons will be shown."
 msgstr ""
@@ -2004,106 +2004,106 @@ msgid "Configure on which devices the background delete option should be used."
 msgstr ""
 
 msgid "Configure remote control type"
-msgstr ""
+msgstr "Távirányító tipusának konfigurálása"
 
 msgid "Configure the DiSEqC mode for this LNB."
-msgstr ""
+msgstr "DISEqC konfigurálása ehhez az LNB-hez."
 
 msgid "Configure the IP address."
-msgstr ""
+msgstr "IP cím konfigurálása"
 
 msgid "Configure the amount of time that will be presented."
-msgstr ""
+msgstr "Konfigurálja a bemutatásra kerülő időtartamot"
 
 msgid "Configure the behavior of the 'pause' key when movie playback is already paused."
-msgstr ""
+msgstr "Pause gomb konfigurálása abban az esetben, ha már a lejátszás szüneteltetve van."
 
 msgid "Configure the behavior when movie playback is manually stopped."
-msgstr ""
+msgstr "Mit történjen amikor lejátszást megállítja."
 
 msgid "Configure the behavior when movie playback is started."
-msgstr ""
+msgstr "Mi történjen amikor a lejátszás elindul."
 
 msgid "Configure the behavior when reaching the end of a movie, during movie playback."
-msgstr ""
+msgstr "Mi történjen amikor gy lejátszás befejeződik."
 
 msgid "Configure the border width of the subtitles. The dark border makes the subtitles easier to read on a light background."
-msgstr ""
+msgstr "Állítsa be a felírat körvonalának vastagságát. A sötét körvonal javítja az olvashatóságot."
 
 msgid "Configure the brightness level of the front panel display for normal operation."
-msgstr ""
+msgstr "Konfigurálja a kijelző fényerejét normál működés esetén."
 
 msgid "Configure the brightness level of the front panel display for standby."
-msgstr ""
+msgstr "Konfigurálja a kijelző fényerejét normál készenléti állapot esetén"
 
 msgid "Configure the color of the external subtitles, alternative (normal in white, italic in yellow, bold in cyan, underscore in green), white or yellow."
-msgstr ""
+msgstr "Konfigurálja a feliratok színeit (nomál a fehér, italic a sárga, vastag a cián aláhúzott a zöld), fehér vagy sárga."
 
 msgid "Configure the color of the teletext subtitles."
-msgstr ""
+msgstr "Konfigurálja a teletext felíratok színeit."
 
 msgid "Configure the contrast level of the front panel display."
-msgstr ""
+msgstr "Konfigurálja az előlap kontraszt arányát."
 
 msgid "Configure the cursor behavior in the channel selection list. When opening the channel selection list you can remain on the current service or already select up/down and you are able to revert the B+/B- buttons."
-msgstr ""
+msgstr "Kurzor konfigurálása a csatorna listában."
 
 msgid "Configure the duration (in minutes) for the screensaver."
-msgstr ""
+msgstr "Képernyő beállítás konfigurálása.(Percekben megadható, hogy mikor kapcsoljon be a képernyő kímélő)"
 
 msgid "Configure the first audio language (highest priority)."
-msgstr ""
+msgstr "Elsődleges audió nyelv konfigurálássa (magas prioritás)."
 
 msgid "Configure the first subtitle language (highest priority)."
-msgstr ""
+msgstr "Elsődleges felírat nyelvének konfigurálása (magas prioritás)."
 
 msgid "Configure the font size of the subtitles."
-msgstr ""
+msgstr "Felírat betű méretének konfigurálása."
 
 msgid "Configure the font size relative to skin size, so 1 increases by 1 point size, and -1 decreases by 1 point size."
-msgstr ""
+msgstr "Betűméret konfigurálása a témához viszonyítva."
 
 msgid "Configure the fourth audio language."
-msgstr ""
+msgstr "Negyedik audió nyelv konfigurálása."
 
 msgid "Configure the fourth subtitle language."
-msgstr ""
+msgstr "Negyedik felirat nyelv konfigurálássa."
 
 msgid "Configure the function of a long press of the power button."
-msgstr ""
+msgstr "Kikapcsoló gomb vislekedése hosszan tartó lenyomás esetén."
 
 msgid "Configure the function of a short press of the power button."
-msgstr ""
+msgstr "Kikapcsoló gomb vislekedése rövid lenyomás esetén."
 
 msgid "Configure the function of the <  > buttons."
-msgstr ""
+msgstr "A < > gombok funkciójának konfigurálása."
 
 msgid "Configure the gateway."
-msgstr ""
+msgstr "Átjáró konfigurálása"
 
 msgid "Configure the horizontal alignment of the subtitles."
-msgstr ""
+msgstr "Felírat horizontális igazításának konfigurálása."
 
 msgid "Configure the initial fast forward speed. When you press the fast forward button, winding will start at this speed."
-msgstr ""
+msgstr "Gyors előre tekerés sebességének konfigurálása."
 
 msgid "Configure the initial rewind speed. When you press the rewind button, rewinding will start at this speed."
-msgstr ""
+msgstr "Gyors hátra tekerés sebességének konfigurálása."
 
 msgid "Configure the latitude of your location."
-msgstr ""
+msgstr "Pozíció szélességének konfigurálása."
 
 msgid "Configure the longitude of your location."
-msgstr ""
+msgstr "Pozíció hosszúságának konfigurálása."
 
 msgid "Configure the minimum amount of disk space to be available for recordings. When the amount of space drops below this value, deleted items will be removed from the trash can."
-msgstr ""
+msgstr "Minimális üres tárhely beállítása a felvételek számára. Amennyiben az érték alá esik a tárhely, a régi felvételek törlődnek."
 
 msgid "Configure the nameserver (DNS)."
-msgstr ""
+msgstr "DNS konfigurálása."
 
 msgid "Configure the netmask."
-msgstr ""
+msgstr "Alhálózati  maszk konfigurálása."
 
 msgid "Configure the number of days after which items are automatically removed from the trash can."
 msgstr ""
