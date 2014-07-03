@@ -125,10 +125,10 @@ msgstr ""
 "Szoftvercsomagok megtekintése, telepítése vagy eltávolítása."
 
 msgid " (PiP)"
-msgstr ""
+msgstr " (PiP)"
 
 msgid " (Radio)"
-msgstr ""
+msgstr " (Rádió)"
 
 msgid " (TV)"
 msgstr ""
