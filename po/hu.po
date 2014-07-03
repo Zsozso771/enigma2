@@ -2106,37 +2106,37 @@ msgid "Configure the netmask."
 msgstr "Alhálózati  maszk konfigurálása."
 
 msgid "Configure the number of days after which items are automatically removed from the trash can."
-msgstr ""
+msgstr "Automatikus törlés időtartamának (nap) konfigurálása."
 
 msgid "Configure the number of days old timers are kept before they are automatically removed from the timer list."
-msgstr ""
+msgstr "Elmúlt időzítők törlésének konfigurálása (nap)."
 
 msgid "Configure the number of rows shown."
-msgstr ""
+msgstr "Kijelzendő sorok számának konfigurálása."
 
 msgid "Configure the offline decoding delay (in milliseconds). The configured delay is observed at each control word parity change."
-msgstr ""
+msgstr "Offline dekódolás késleltetésének konfigurálása.(milliszekundum)"
 
 msgid "Configure the possible fast forward speeds."
-msgstr ""
+msgstr "Gyors előre tekerés lehetséges sebességének konfigurálása."
 
 msgid "Configure the possible rewind speeds."
-msgstr ""
+msgstr "Vissza tekerés lehetséges sebességének konfigurálása."
 
 msgid "Configure the primary EPG language."
-msgstr ""
+msgstr "Elsődleges EPG nyelvének konfigurálása."
 
 msgid "Configure the refresh rate of the screen."
-msgstr ""
+msgstr "Képernyő frissítésének konfigurálása."
 
 msgid "Configure the second audio language."
-msgstr ""
+msgstr "Második hang nyelv konfigurálása."
 
 msgid "Configure the second subtitle language."
-msgstr ""
+msgstr "Második felírat nyelvének konfigurálása."
 
 msgid "Configure the secondary EPG language."
-msgstr ""
+msgstr "Második EPG nyelv konfigurálása."
 
 #
 #, fuzzy
@@ -2154,34 +2154,34 @@ msgid "Configure the skip time interval for the 7 and 9 buttons."
 msgstr "Állítható átugrási idő a  '7'/'9' gombokra"
 
 msgid "Configure the slow motion speeds."
-msgstr ""
+msgstr "Léptetés sebességének konfigurálása."
 
 msgid "Configure the speed of the background deletion process. Lower speed will consume less hard disk drive performance."
 msgstr ""
 
 msgid "Configure the subtitle delay when timing information is not available."
-msgstr ""
+msgstr "Konfigurálja a felírat kijelzésének késleltetési idejét arra az esetre, ha nem érhető el információ."
 
 msgid "Configure the third audio language."
-msgstr ""
+msgstr "Harmadik hang nyelvének konfigurálása."
 
 msgid "Configure the third subtitle language."
-msgstr ""
+msgstr "HArmadik felírat nyelvének konfigurálása."
 
 msgid "Configure the transparency of the black background of graphical DVB subtitles."
-msgstr ""
+msgstr "DVB felírt fekete hátterének konfigurálása."
 
 msgid "Configure the tuner mode."
-msgstr ""
+msgstr "Tuner mód konfigurálása."
 
 msgid "Configure the type of status indication icons shown in the movie list."
-msgstr ""
+msgstr "Státusz ikon konfigurálása a filmek listájában."
 
 msgid "Configure the vertical position of the subtitles, measured from the bottom of the screen."
-msgstr ""
+msgstr "A felírat vertikális pozíciójának konfigurálása a kép aljához viszonyítva."
 
 msgid "Configure the width allocated to the picon."
-msgstr ""
+msgstr "Picon szélességének konfigurálása."
 
 msgid "Configure the width allocated to the service name."
 msgstr ""
