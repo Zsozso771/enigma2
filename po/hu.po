@@ -2184,22 +2184,22 @@ msgid "Configure the width allocated to the picon."
 msgstr "Picon szélességének konfigurálása."
 
 msgid "Configure the width allocated to the service name."
-msgstr ""
+msgstr "Kiosztott szolgáltatások neveinek konfigurálása."
 
 msgid "Configure to show the channel names, picons, or both in the EPG."
-msgstr ""
+msgstr "Csatorna neveinek, ikonjainak konfigurálása az EPG-ben."
 
 msgid "Configure whether (and for how long) a second infobar will be shown when OK is pressed twice. The second infobar contains additional information about the current channel."
-msgstr ""
+msgstr "Másodlagos infósáv konfigurálása. OK gomb kétszeri megnyomása esetén."
 
 msgid "Configure which color format should be used on the SCART output."
-msgstr ""
+msgstr "Szín fromátum konfigurálása ha a Scart kimenetet használja."
 
 msgid "Configure which tuner type will be preferred, when the same service is available on different types of tuners."
-msgstr ""
+msgstr "Preferált Tuner konfigurálása, ha ugyan az a szolgáltatás elérhető a különböző tunereken."
 
 msgid "Configure which tuner will be preferred, when more than one tuner is available. If set to 'auto' the system will give priority to the tuner having the lowest number of channels/satellites."
-msgstr ""
+msgstr "Preferált tuner konfigurálása, ha több mint egy tuner érhető el. Automatikus beállítás esetén a kevesebb csatornát vagy műholdat kezelő tuner lesz kiválasztva."
 
 #
 #, fuzzy
@@ -2215,14 +2215,14 @@ msgid "Configure your network again"
 msgstr "A hálózat újrakonfigurálása"
 
 msgid "Configure your network settings, and press OK to start the scan"
-msgstr ""
+msgstr "Konfigurálja a hálózati beállításokat és nyomja meg az OK- a kereséshez."
 
 #
 msgid "Configure your wireless LAN again"
 msgstr "A vezeték nélküli hálózat újrakonfigurálása"
 
 msgid "Configures which video output connector will be used."
-msgstr ""
+msgstr "Állítsa be, hogy melyik video kimenetet használja."
 
 #
 msgid "Configuring"
@@ -2242,7 +2242,7 @@ msgid "Connect to a wireless network"
 msgstr "Csatlakozás vezeték nélküli hálózathoz"
 
 msgid "Connected clients"
-msgstr ""
+msgstr "Csatlakoztatott kliensek"
 
 #
 msgid "Connected to"
@@ -2253,14 +2253,14 @@ msgid "Connected!"
 msgstr "Csatlakoztatva!"
 
 msgid "Connected: "
-msgstr ""
+msgstr "Csatlakoztatva:"
 
 #
 msgid "Constellation"
 msgstr "Együttállás"
 
 msgid "Content"
-msgstr ""
+msgstr "Tartalom"
 
 #
 msgid "Content does not fit on DVD!"
@@ -2270,24 +2270,24 @@ msgid "Continue"
 msgstr "Folytatás"
 
 msgid "Continue playback"
-msgstr ""
+msgstr "Folyamatos lejátszás"
 
 #
 msgid "Continue playing"
 msgstr "Lejátszás folytatása"
 
 msgid "Continues"
-msgstr ""
+msgstr "Tovább"
 
 msgid "Continues play (loop)"
-msgstr ""
+msgstr "Lejátszás folytatása (loop)"
 
 #
 msgid "Contrast"
 msgstr "Kontraszt"
 
 msgid "Control of the position how finished timers are shown in the Timer List."
-msgstr ""
+msgstr "Befejezett időzítők pozíciójának konfigurálása az időzítő listában."
 
 #, fuzzy
 msgid "Convert ext3 filesystem to ext4"
@@ -2304,10 +2304,10 @@ msgid "Converting ext3 to ext4..."
 msgstr "Konvertálás ext3-ról ext4-re"
 
 msgid "Cool TV Guide"
-msgstr ""
+msgstr "Cool TV Műsorújság"
 
 msgid "Copy"
-msgstr ""
+msgstr "Másolás"
 
 #, fuzzy
 msgid "Copying files"
@@ -2315,7 +2315,7 @@ msgstr "Hosszú fájlnevek"
 
 #, python-format
 msgid "Cores:\t%s"
-msgstr ""
+msgstr "Magok:\t%s"
 
 #
 #, fuzzy, python-format
@@ -2323,12 +2323,12 @@ msgid "Could not connect to %s %s .NFI image feed server:"
 msgstr "Nem lehet csatlakozni az .NFI Image feed szerverhez: "
 
 msgid "Could not find installed channel list."
-msgstr ""
+msgstr "NEm található telepítettt csatorna lista."
 
 #
 #, fuzzy
 msgid "Could not load medium! No disc inserted?"
-msgstr "Nem lehet betölteni a hordozót! Van bennt lemez?"
+msgstr "Nem lehet betölteni a hordozót! Van bent lemez?"
 
 #
 msgid "Could not open Picture in Picture"
@@ -2336,22 +2336,22 @@ msgstr "A Kép-a-Képben funkció nem indítható el"
 
 #, python-format
 msgid "Could not open the file %s!"
-msgstr ""
+msgstr "Nem lehet megnyitni a file-t %s"
 
 #, python-format
 msgid "Could not record due to conflicting timer %s"
-msgstr ""
+msgstr "Nem sikerült a felvétel időzítő ütközés miatt. %s"
 
 #, python-format
 msgid "Could not record due to invalid service %s"
-msgstr ""
+msgstr "Felvétel nem lehetséges. Nem létező szolgáltatás %s"
 
 #, python-format
 msgid "Could not save configfile %s!"
-msgstr ""
+msgstr "NEm lehet menteni a konfigurációs file-t %s"
 
 msgid "Crash Logs"
-msgstr ""
+msgstr "Hiba log-ok"
 
 #
 msgid "Create DVD-ISO"
@@ -2366,7 +2366,7 @@ msgid "Create more detailed crash log"
 msgstr "Részletesebb hibanapló generálása"
 
 msgid "Creating AP and SC Files"
-msgstr ""
+msgstr "Ap és SC file létrehozása"
 
 msgid "Creating Hardlink to Timeshift file failed!"
 msgstr ""
@@ -2382,26 +2382,26 @@ msgid "Creating filesystem"
 msgstr "Fájlrendszer ellenőrzése..."
 
 msgid "Creating partition"
-msgstr ""
+msgstr "Partíció létrehozása"
 
 #
 msgid "Croatian"
 msgstr "Horvát"
 
 msgid "Cron Manager"
-msgstr ""
+msgstr "Cron menedzser"
 
 msgid "CronTimers"
-msgstr ""
+msgstr "Cron Idők"
 
 msgid "Current CEC address"
-msgstr ""
+msgstr "Jelenlegi CEC cím"
 
 msgid "Current Event:"
-msgstr ""
+msgstr "Jelenlegi esemény"
 
 msgid "Current Status:"
-msgstr ""
+msgstr "Jelenlegi státusz"
 
 msgid "Current device: "
 msgstr "Aktuális eszköz: "
@@ -2411,7 +2411,7 @@ msgid "Current settings:"
 msgstr "Aktuális beállítások:"
 
 msgid "Current time"
-msgstr ""
+msgstr "JElenlegi idő"
 
 #
 #, fuzzy
@@ -2458,7 +2458,7 @@ msgid "Cut"
 msgstr "Vágás"
 
 msgid "Cutlist editor"
-msgstr ""
+msgstr "Vágolista szerkesztő"
 
 #
 msgid "Cutlist editor..."
@@ -2469,20 +2469,20 @@ msgid "Czech"
 msgstr "Cseh"
 
 msgid "DAC"
-msgstr ""
+msgstr "DAC"
 
 #
 msgid "DHCP"
 msgstr "DHCP"
 
 msgid "DLNA support"
-msgstr ""
+msgstr "DLNA támogatás"
 
 msgid "DMM advanced"
-msgstr ""
+msgstr "DMM haladó"
 
 msgid "DMM normal"
-msgstr ""
+msgstr "DMM normál"
 
 #
 msgid "DUAL LAYER DVD"
@@ -2492,10 +2492,10 @@ msgid "DVB subtitle black transparency"
 msgstr "DVB felirat fekete-áttetszőssége"
 
 msgid "DVB-C"
-msgstr ""
+msgstr "DVB-C"
 
 msgid "DVB-C ANNEX C"
-msgstr ""
+msgstr "DVB-C ANNEX C"
 
 #
 msgid "DVB-S"
@@ -2506,13 +2506,13 @@ msgid "DVB-S2"
 msgstr "DVB-S2"
 
 msgid "DVB-T"
-msgstr ""
+msgstr "DVB-T"
 
 msgid "DVB-T2"
-msgstr ""
+msgstr "DVB-T2"
 
 msgid "DVD data format"
-msgstr ""
+msgstr "DVD adat formátum"
 
 #
 #, fuzzy
@@ -2547,14 +2547,14 @@ msgid "Date"
 msgstr "Dátum"
 
 msgid "Debug Logs"
-msgstr ""
+msgstr "Debug Logok"
 
 #
 msgid "Deep Standby"
-msgstr "Mély-készenlét"
+msgstr "Valós készenlét"
 
 msgid "Deep standby"
-msgstr ""
+msgstr "Valós készenlét"
 
 #
 msgid "Default"
@@ -2575,10 +2575,10 @@ msgid "Default settings"
 msgstr "Alapértelmezett beállítások"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Alapértékek"
 
 msgid "Delay before key repeat starts:"
-msgstr ""
+msgstr "Késleltetés a billentyűzet parancs ismétlése előtt:"
 
 #, fuzzy
 msgid "Delay for external subtitles"
@@ -2590,7 +2590,7 @@ msgid "Delay time"
 msgstr "Kezdési idő"
 
 msgid "Delay:"
-msgstr ""
+msgstr "Késleltetés"
 
 #
 msgid "Delete"
@@ -2598,10 +2598,10 @@ msgstr "Törlés"
 
 #, python-format
 msgid "Delete %s?"
-msgstr ""
+msgstr "Torlés %s?"
 
 msgid "Delete Confirmation"
-msgstr ""
+msgstr "Törlés megerősítése"
 
 #
 msgid "Delete entry"
@@ -2637,14 +2637,14 @@ msgid "Delete..."
 msgstr "törlés..."
 
 msgid "Deleted"
-msgstr ""
+msgstr "Törölve"
 
 #, python-format
 msgid "Deleted %s!"
-msgstr ""
+msgstr "Törölve %s"
 
 msgid "Deleted items"
-msgstr ""
+msgstr "Törölt elemek"
 
 #
 #, fuzzy
@@ -2652,13 +2652,13 @@ msgid "Deleting files"
 msgstr "fájl törlése"
 
 msgid "Depth"
-msgstr ""
+msgstr "Mélység"
 
 msgid "Descramble & record ECM' gives the option to descramble afterwards if descrambling on recording failed. 'Don't descramble, record ECM' save a scramble recording that can be descrambled on playback. 'Normal' means descramble the recording and don't record ECM."
 msgstr ""
 
 msgid "Descramble http streams"
-msgstr ""
+msgstr "http stream kikódolás"
 
 #
 msgid "Description"
@@ -2672,26 +2672,26 @@ msgid "Details for plugin: "
 msgstr "Plugin részletei: "
 
 msgid "Detected Devices:"
-msgstr ""
+msgstr "Azonosított eszközök"
 
 #
 msgid "Detected NIMs:"
 msgstr "Tuner-ek:"
 
 msgid "Device Information"
-msgstr ""
+msgstr "Eszköz információk"
 
 msgid "Device mounts"
-msgstr ""
+msgstr "Eszköz csatlakoztatás"
 
 msgid "Device setup"
-msgstr ""
+msgstr "Eszköz beállítás"
 
 msgid "Devicename:"
-msgstr ""
+msgstr "Eszköz neve:"
 
 msgid "Devices"
-msgstr ""
+msgstr "Eszközök"
 
 #
 msgid "DiSEqC"
@@ -2711,7 +2711,7 @@ msgstr "DiSEqC mód"
 
 #, python-format
 msgid "DiSEqC port %s: %s"
-msgstr ""
+msgstr "DiSEqC port %s: %s"
 
 #
 msgid "DiSEqC repeats"
@@ -2731,14 +2731,14 @@ msgid "Digital contour removal"
 msgstr "Digitális körvonal-eltávolítás"
 
 msgid "Digital downmix"
-msgstr ""
+msgstr "Digitális downmix"
 
 #
 msgid "Direct playback of linked titles without menu"
 msgstr "Linkelt tételek menü nélküli közvetlen lejátszása"
 
 msgid "Directory"
-msgstr ""
+msgstr "Könyvtár"
 
 #
 #, fuzzy, python-format
@@ -2777,7 +2777,7 @@ msgid "Disk space to reserve for recordings (in GB)"
 msgstr "Felvételeknek fenntartott tárterület (GB-ban)"
 
 msgid "Display"
-msgstr ""
+msgstr "Képernyő"
 
 #
 msgid "Display 16:9 content as"
@@ -2797,7 +2797,7 @@ msgid "Display and user interface"
 msgstr "Képernyő és felhasználói felület"
 
 msgid "Display message before playing next movie"
-msgstr ""
+msgstr "Következő film előtti képernyő üzenet"
 
 msgid "Display the EIT now/next eventdata in infobar."
 msgstr ""
