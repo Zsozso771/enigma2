@@ -4521,8 +4521,8 @@ msgstr "Tárolóeszközök listája"
 #, python-format
 msgid "List version %d, found %d channel"
 msgid_plural "List version %d, found %d channels"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Lista verzió %d, talált %d csatorna"
+msgstr[1] "Lista verzió %d, talált %d csatornák"
 
 #
 #, fuzzy
@@ -4538,7 +4538,7 @@ msgid "Load"
 msgstr "Betöltés"
 
 msgid "Load EPG"
-msgstr ""
+msgstr "EPG töltése"
 
 #
 #, fuzzy
@@ -4549,7 +4549,7 @@ msgid "Load/Save"
 msgstr ""
 
 msgid "Local box"
-msgstr ""
+msgstr "Helyi box"
 
 #
 #, fuzzy
@@ -4566,35 +4566,35 @@ msgid "Lock ratio"
 msgstr "Pozíció"
 
 msgid "Log Manager"
-msgstr ""
+msgstr "Log kezelő"
 
 #
 msgid "Log results to harddisk"
 msgstr "Eredmények naplózása merevlemezre"
 
 msgid "LogManager"
-msgstr ""
+msgstr "LogKezelő"
 
 msgid "Logs"
-msgstr ""
+msgstr "Log-ok"
 
 msgid "Logs location"
-msgstr ""
+msgstr "Log-ok elérhetősége"
 
 msgid "Logs manager"
-msgstr ""
+msgstr "Log kezelő"
 
 msgid "Logs older than the specified no of days will be deleted."
-msgstr ""
+msgstr "A megadott napoknál régebbi napló file-ok törlésre kerülnek"
 
 msgid "Logs settings"
-msgstr ""
+msgstr "Log beállítások"
 
 msgid "Long << / >>"
-msgstr ""
+msgstr "Hosszan << / >>"
 
 msgid "Long Left/Right"
-msgstr ""
+msgstr "Hosszan Bal/Jobb"
 
 msgid "Long filenames"
 msgstr "Hosszú fájlnevek"
@@ -4609,7 +4609,7 @@ msgid "Longitude"
 msgstr "Hosszúsági fok"
 
 msgid "Luxembourgish"
-msgstr ""
+msgstr "Luxemburgi"
 
 #
 #, fuzzy
@@ -4664,10 +4664,10 @@ msgid "Manual Scan"
 msgstr "Kézi keresés"
 
 msgid "Manual configuration"
-msgstr ""
+msgstr "Kézi beállítás"
 
 msgid "Manual scan"
-msgstr ""
+msgstr "Kézi keresés"
 
 #
 msgid "Manual transponder"
@@ -4702,13 +4702,13 @@ msgid "Maxdown: "
 msgstr ""
 
 msgid "Maximum no of days"
-msgstr ""
+msgstr "Napok maximális száma"
 
 msgid "Maximum total space used (MB)"
-msgstr ""
+msgstr "Felhasználható maximális szabad hely (MB)"
 
 msgid "Media playback Remaining/Elapsed as"
-msgstr ""
+msgstr "Média lejátszás hátralévő/eltelt "
 
 #
 msgid "Media player"
@@ -4728,13 +4728,13 @@ msgid "Medium is not empty!"
 msgstr "A hordozó nem üres!"
 
 msgid "Memory"
-msgstr ""
+msgstr "Memória"
 
 msgid "Memory Information"
-msgstr ""
+msgstr "Memória információ"
 
 msgid "Memory index"
-msgstr ""
+msgstr "Memória index"
 
 #
 #, fuzzy
@@ -4746,19 +4746,19 @@ msgid "Menu"
 msgstr "Menü"
 
 msgid "Menu config"
-msgstr ""
+msgstr "Menü beállítás"
 
 msgid "Merging Timeshift files"
-msgstr ""
+msgstr "Timeshift file-ok összevonása"
 
 msgid "MiniDLNA Log"
 msgstr ""
 
 msgid "MiniDLNA Setup"
-msgstr ""
+msgstr "MiniDLNA beállítás"
 
 msgid "MiniDLNA setup"
-msgstr ""
+msgstr "MiniDLNA beállítás"
 
 #, python-format
 msgid "Minimum age %d years"
