@@ -8704,112 +8704,112 @@ msgid "This option allows you choose how to display the remaining/elapsed time f
 msgstr "Megváltoztathatja a hátralévő/eltelt idő kijelzését."
 
 msgid "This option allows you choose the background color of transparent picons."
-msgstr ""
+msgstr "Megváltoztathatja picon-ok hátterének színét"
 
 msgid "This option allows you set the layout view (Text or Graphics)."
-msgstr ""
+msgstr "Megváltoztathatja a elrendezés nézetét. (Szöveg vagy Grafikus)"
 
 msgid "This option allows you to boost the blue tones in the picture."
-msgstr ""
+msgstr "Megváltoztathatja a kék színárnyalatot."
 
 msgid "This option allows you to boost the green tones in the picture."
-msgstr ""
+msgstr "Megváltoztathatja a zőld színárnyalatot"
 
 msgid "This option allows you to bypass HDMI EDID check"
-msgstr ""
+msgstr "Ez az opció engedélyezi a HDMI EDID ellenőrzésének kihagyását."
 
 msgid "This option allows you to choose from the two channel lists that are available."
-msgstr ""
+msgstr "Ez az opció engedélyezi, hogy válasszon a két lehetséges csatorna lista közül."
 
 msgid "This option allows you to choose how to display 1080p 24Hz on your TV. (as not all TV's support these resolutions)"
-msgstr ""
+msgstr "Ez az opció engedélyezi, hogy kiválaszthassa a TV-n a 1080p 24Hz felbontást. (nem minden TV támogatja)"
 
 msgid "This option allows you to choose how to display 1080p 25Hz on your TV. (as not all TV's support these resolutions)"
-msgstr ""
+msgstr "Ez az opció engedélyezi, hogy kiválaszthassa a TV-n a 1080p 25Hz felbontást. (nem minden TV támogatja)"
 
 msgid "This option allows you to choose how to display 1080p 30Hz on your TV. (as not all TV's support these resolutions)"
-msgstr ""
+msgstr ""Ez az opció engedélyezi, hogy kiválaszthassa a TV-n a 1080p 30Hz felbontást. (nem minden TV támogatja)""
 
 msgid "This option allows you to choose how to display 720p 24Hz on your TV. (as not all TV's support these resolutions)"
-msgstr ""
+msgstr ""Ez az opció engedélyezi, hogy kiválaszthassa a TV-n a 720p 24Hz felbontást. (nem minden TV támogatja)""
 
 msgid "This option allows you to choose how to display elapsed time. As + or -"
-msgstr ""
+msgstr "Ez az opció engedélyezi, hogy megváltoztassa az eltelt időt. + vagy -"
 
 msgid "This option allows you to choose how to display standard defintion video on your TV."
-msgstr ""
+msgstr "Beállíthatja, hogy SD felbontásban jelenjen meg a kép a tv-n"
 
 msgid "This option allows you to choose how to display the remaining/elapsed time for Media playback."
-msgstr ""
+msgstr "Beállíthatja, hogy az eltelt/hátralévő idő-t megjelenítse a média lejátszásnál."
 
 msgid "This option allows you to choose how to display the remaining/elapsed time for live TV."
-msgstr ""
+msgstr "Beállíthatja, hogy az eltelt/hátralévő idő-t megjelenítse az élő adásál."
 
 msgid "This option allows you to choose how to display the remaining/elapsed time for media playback."
-msgstr ""
+msgstr "Beállíthatja, hogy az eltelt/hátralévő idő-t megjelenítse a média lejátszásnál"
 
 msgid "This option allows you to choose what the first button press jumps to in channel list screen, (so pressing '2' jumps to 'A' or '2' first)"
 msgstr ""
 
 msgid "This option allows you to disable sorting of the menus"
-msgstr ""
+msgstr "Ez az opció engedélyezi, hogy kikapcsolja a menü rendezését"
 
 msgid "This option allows you to disable sorting of the option in setting screens"
-msgstr ""
+msgstr "Ez az opció engedélyezi, hogy kikapcsolja a beállítások rendezését."
 
 msgid "This option allows you to disable sorting of the plugin browser."
-msgstr ""
+msgstr "Ez az opció engedélyezi, hogy kikapcsolja a plugin-ek rendezését"
 
 msgid "This option allows you to enable 3D Surround Sound."
-msgstr ""
+msgstr "Ez az opció engedélyezi, hogy bekapcsolja a 3D Surround Sound-ot."
 
 msgid "This option allows you to set the layout view (Text or Graphics)."
-msgstr ""
+msgstr "Ez az opció engedélyezi, hogy beállítsa nézetet (Szöveg vagy Grafikus)"
 
 msgid "This option allows you to show the SNR as a percentage (not all receivers support this)."
-msgstr ""
+msgstr "Ez az opció egedélyezi, hogy mutassa az SNR-t. (nem minden beltéri támogatja)"
 
 msgid "This option allows you to view the old and new settings side by side."
-msgstr ""
+msgstr "Ez az opció engedélyezi, hogy egymás mellett mutassa a régi és az új beállításokat."
 
 msgid "This option configures the general audio delay of Dolby Digital sound tracks."
-msgstr ""
+msgstr "Ennél az opciónál konfigurálhatj az alap hang késleltetést a Dolby Digital hanghoz."
 
 msgid "This option configures the general audio delay of stereo sound tracks."
-msgstr ""
+msgstr "Ennél az opciónál konfigurálhatj az alap hang késleltetést a sztereó hanghoz."
 
 msgid "This option configures the screen resolution in PC output mode."
-msgstr ""
+msgstr "Ennél az opciónál konfigurálhatja a képernyő felbontást a PC kimenet esetén."
 
 msgid "This option configures the video output mode (or resolution)."
-msgstr ""
+msgstr "Ez az opció konfigurálja a videó kimenetet (vagy felbontást)."
 
 msgid "This option lets you adjust the 3D depth"
-msgstr ""
+msgstr "Beállíthatja a 3D mélységet "
 
 msgid "This option lets you adjust the transparency of the user interface"
-msgstr ""
+msgstr "Beállíthatja a felhasználói felület átlátszóságát."
 
 msgid "This option lets you choose the 3D mode"
-msgstr ""
+msgstr "3D módot választhat"
 
 msgid "This option lets you show the option in the extension screen"
-msgstr ""
+msgstr "Beállíthatja, hogy mutassa e a kiterjesztett képet."
 
 msgid "This option moves the PVR status from the separate window into the Movie Player infobar."
-msgstr ""
+msgstr "BEállíthatja, hogy külön ablakban mutassa a PVR státuszt a Videó lejátszó infó sávján."
 
 msgid "This option set the level of surpression of musquito noise (Musquito Noise is random aliasing as a result of strong compression). Obviously this goes at the cost of picture details."
 msgstr ""
 
 msgid "This option sets  the picture contrast."
-msgstr ""
+msgstr "A kép kontrasztját állíthatja."
 
 msgid "This option sets the picture brightness."
-msgstr ""
+msgstr "A kép fényerejét állíthatja"
 
 msgid "This option sets the picture color space."
-msgstr ""
+msgstr "A kép színmélységét állíthatja."
 
 msgid "This option sets the picture flesh tones."
 msgstr ""
