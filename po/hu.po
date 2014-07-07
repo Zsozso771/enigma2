@@ -8815,19 +8815,19 @@ msgid "This option sets the picture flesh tones."
 msgstr ""
 
 msgid "This option sets the picture hue."
-msgstr ""
+msgstr "BEállíthatja a képernyő színárnyalatát."
 
 msgid "This option sets the picture saturation."
-msgstr ""
+msgstr "Beállíthatja a képernyő telítettségét"
 
 msgid "This option sets the scaler sharpness, used when stretching picture from 4:3 to 16:9."
-msgstr ""
+msgstr "Scaler Élesség beállítása, használható ha a képet 4:3-ról 16:9-re kell nyújtani."
 
 msgid "This option sets the surpression of false digital contours, that are the result of a limited number of discrete values."
-msgstr ""
+msgstr "Állíthatja a Hibás Digitális kontúrok javíthatóságát. "
 
 msgid "This option sets up the picture sharpness, used when the picture is being upscaled."
-msgstr ""
+msgstr "Beállíthatja a képernyő élességét, ha a kép felskálázott."
 
 #, python-format
 msgid ""
@@ -8909,7 +8909,8 @@ msgstr "Ez a teszt leellenőrzi a beállított hálótzati interfészt."
 msgid ""
 "This will (re-)calculate all positions of your rotor and may remove previously memorised positions and fine-tuning!\n"
 "Are you sure?"
-msgstr ""
+msgstr "Ez újra fogja számolni a motor minden pozícióját és a régi pozíciók és finom hangolások törlődni fognak!\n"
+"Biztos benne?"
 
 #
 msgid "Three"
@@ -8939,10 +8940,10 @@ msgid "Time"
 msgstr "Idő"
 
 msgid "Time Update in Minutes"
-msgstr ""
+msgstr "Idő frissítés percekben"
 
 msgid "Time Update in Minutes:"
-msgstr ""
+msgstr "Idő frissítés percekben:"
 
 #
 #, fuzzy
@@ -8950,16 +8951,16 @@ msgid "Time scale"
 msgstr "Időzítés kiválasztása"
 
 msgid "Time settings"
-msgstr ""
+msgstr "Idő beállítások"
 
 msgid "Time to execute command or script"
-msgstr ""
+msgstr "Parancs vagy script végrehajtása."
 
 msgid "Timeline font size"
-msgstr ""
+msgstr "Idő betű mérete"
 
 msgid "Timer List"
-msgstr ""
+msgstr "Időzítő lista"
 
 #
 msgid "Timer entry"
@@ -9034,25 +9035,25 @@ msgid "Timeshift not possible!"
 msgstr "Időcsúsztatás nem lehetséges!"
 
 msgid "Timeshift save failed!"
-msgstr ""
+msgstr "Timeshift mentés sikertelen!"
 
 msgid "Timeshift save recording (Select event)"
-msgstr ""
+msgstr "Timeshift mentése (esemény választás)"
 
 msgid "Timeshift save recording (stop after current event)"
-msgstr ""
+msgstr "Timeshift mentése (megállítás a jelenlegi esemény után)"
 
 msgid "Timeshift saved to your harddisk!"
-msgstr ""
+msgstr "Timeshift mentve a merevlemezre!"
 
 msgid "Timeshift settings"
-msgstr ""
+msgstr "Timeshift beállítások"
 
 msgid "Timeshift will get saved at end of event!"
-msgstr ""
+msgstr "Timeshift mentve kesz a jelenlegi esemény végén!"
 
 msgid "Timeshift-save action on zap"
-msgstr ""
+msgstr "Timeshift mentés csatorna váltáskor"
 
 msgid "Timezone"
 msgstr "Időzóna"
@@ -9063,11 +9064,11 @@ msgstr "Cím"
 
 #
 msgid "Title properties"
-msgstr ""
+msgstr "Cím beállíások"
 
 #
 msgid "Titleset mode"
-msgstr ""
+msgstr "Cím beállítások mód"
 
 #, python-format
 msgid ""
@@ -9076,6 +9077,11 @@ msgid ""
 "2) Turn mains back on and hold the DOWN button on the front panel pressed for 10 seconds.\n"
 "3) Wait for bootup and follow instructions of the wizard."
 msgstr ""
+"A szoftver %s %s frissítéshez kövesse a következő lépéseket:\n"
+"1) Kapcsolja ki a boxot a hátsó kapcsolóval és győződjön meg arról, hogy az USB amin a rendszer van csatlakoztatva van e.\n"
+"2) Kapcsolja be a beltérit és tartsa lenyomva a LEFELÉ gombot az előlapon 10 másodpercig.\n"
+"3) Várjon amíg a készülék bebootol és kövesse a varázsló utasításait"
+
 
 msgid "Today"
 msgstr "Ma"
@@ -9108,22 +9114,22 @@ msgid "Toneburst A/B"
 msgstr "Toneburst A/B"
 
 msgid "Top and Bottom"
-msgstr ""
+msgstr "Felső és alsó"
 
 msgid "Top and bottom"
-msgstr ""
+msgstr "Felső és alsó"
 
 msgid "Total"
-msgstr ""
+msgstr "Teljes"
 
 msgid "Total Memory:"
-msgstr ""
+msgstr "Telej memória:"
 
 msgid "Total Swap:"
-msgstr ""
+msgstr "Teljes Swap:"
 
 msgid "Total cards:"
-msgstr ""
+msgstr "Teljes kártyák:"
 
 msgid "Total handled client ecm's"
 msgstr ""
@@ -9132,7 +9138,7 @@ msgid "Total handled client emm's"
 msgstr ""
 
 msgid "Total:"
-msgstr ""
+msgstr "Teljes"
 
 #
 msgid "Track"
@@ -9153,7 +9159,7 @@ msgid "Transmission mode"
 msgstr "Adási mód"
 
 msgid "Transparent"
-msgstr ""
+msgstr "Átlátszó"
 
 #
 msgid "Transponder"
@@ -9165,10 +9171,10 @@ msgid "Transponder type"
 msgstr "Transzponder típusa"
 
 msgid "Trashcan"
-msgstr ""
+msgstr "Kuka"
 
 msgid "Trashcan:"
-msgstr ""
+msgstr "Kuka:"
 
 #
 msgid "Tries left:"
@@ -9247,7 +9253,7 @@ msgid "Two"
 msgstr "Kettő"
 
 msgid "Two lines"
-msgstr ""
+msgstr "Két vonal"
 
 #
 msgid "Type"
@@ -9258,28 +9264,28 @@ msgid "Type of scan"
 msgstr "Keresés típusa"
 
 msgid "Type: "
-msgstr ""
+msgstr "Tipus: "
 
 #
 msgid "USALS"
 msgstr "USALS"
 
 msgid "USALS calibration"
-msgstr ""
+msgstr "USALS beállítás"
 
 #
 msgid "USB stick wizard"
 msgstr "USB-s hordozó Varázsló"
 
 msgid "Unattended upgrade without GUI and reboot system"
-msgstr ""
+msgstr "Felügyelet nélküli frissítés GUI nélkül és rendszer újraindítás"
 
 #
 msgid "Uncommitted DiSEqC command"
 msgstr "Nem elkötelezett DiSEqC parancs"
 
 msgid "Undetermined"
-msgstr ""
+msgstr "Meghatározhatatlan"
 
 #
 msgid "Undo install"
@@ -9290,7 +9296,7 @@ msgid "Undo uninstall"
 msgstr "Eltávolítás visszavonása"
 
 msgid "Unencrypted"
-msgstr ""
+msgstr "Titkosított"
 
 #
 msgid "Unicable"
@@ -9301,7 +9307,7 @@ msgid "Unicable LNB"
 msgstr "Unicable Fej"
 
 msgid "Unicable Matrix"
-msgstr ""
+msgstr "Unicable matrix"
 
 #
 msgid "Uninstall"
@@ -9312,10 +9318,10 @@ msgid "Universal LNB"
 msgstr "Univerzális LNB"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Ismeretlen"
 
 msgid "Unmount"
-msgstr ""
+msgstr "Nem társított"
 
 #
 msgid "Unsupported"
@@ -9326,13 +9332,13 @@ msgid "Update"
 msgstr "Frissítés"
 
 msgid "Update channel list only"
-msgstr ""
+msgstr "Csak csatorna lista frssítés"
 
 #, python-format
 msgid "Update completed, %d package was installed."
 msgid_plural "Update completed, %d packages were installed."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Frissítés kész, %d csomag instalálva"
+msgstr[1] "Frissítés kész, %d csomag instalálva"
 
 #
 #, fuzzy, python-format
@@ -9344,18 +9350,18 @@ msgstr ""
 "\n"
 
 msgid "Update interval (in seconds)"
-msgstr ""
+msgstr "Frissítési időköz (másodpercben)"
 
 #
 msgid "Updatefeed not available."
-msgstr ""
+msgstr "Frissítési forrás nem elérhető"
 
 #
 msgid "Updating software catalog"
 msgstr "Szoftver-katalógus frissítése"
 
 msgid "Upgrade and reboot system"
-msgstr ""
+msgstr "Frissítés és rendszer újraindítás"
 
 #
 msgid "Upgrade finished."
@@ -9367,6 +9373,8 @@ msgid ""
 "Please wait until your %s %s reboots\n"
 "This may take a few minutes"
 msgstr ""
+"Frissítés folyamatban\n"
+"Kérem várjon amíg a %s %s újraindul\n"
 
 msgid "Upgrading"
 msgstr "Frissítés"
@@ -9392,31 +9400,31 @@ msgid "Use DHCP"
 msgstr "DHCP használata"
 
 msgid "Use EIT EPG information when it is available."
-msgstr ""
+msgstr "Használja a EIT EPG információt amikor elérhető."
 
 msgid "Use FreeSat EPG information when it is available."
-msgstr ""
+msgstr "Használja a FreeSat EPG információt amikor elérhető"
 
 msgid "Use MHW EPG information when it is available."
-msgstr ""
+msgstr "Használja az MHW EPG iformációt amikor elérhető"
 
 msgid "Use Netmed EPG information when it is available."
-msgstr ""
+msgstr "Használja a Netmed EPG információt amikor lehetséges"
 
 msgid "Use TV remote control"
-msgstr ""
+msgstr "TV távirányító használata"
 
 msgid "Use USALS for this sat"
-msgstr ""
+msgstr "Használja a USALS-t ehhez a műholdhoz"
 
 msgid "Use ViX colored Buttons*"
-msgstr ""
+msgstr "Használja a VIX szín gombokat"
 
 msgid "Use ViaSat EPG information when it is available."
-msgstr ""
+msgstr "HAsználja a ViaSat EPG információt amikor lehetséges"
 
 msgid "Use WOL"
-msgstr ""
+msgstr "Használja a WOL-t"
 
 #
 msgid "Use a gateway"
@@ -9429,10 +9437,10 @@ msgid "Use fastscan channel numbering"
 msgstr "Gyorskeresési csatornaszámozás"
 
 msgid "Use frequency or channel"
-msgstr ""
+msgstr "Frekvencia vagy csatorna használata"
 
 msgid "Use individual settings for each directory"
-msgstr ""
+msgstr "Egyéni beálltások használata minden könyvtárhoz"
 
 #
 #, fuzzy
@@ -9440,10 +9448,10 @@ msgid "Use interface"
 msgstr "Interfész használata"
 
 msgid "Use official channel numbering"
-msgstr ""
+msgstr "Eredeti csatorna számozás használata"
 
 msgid "Use original DVB subtitle position"
-msgstr ""
+msgstr "Eredeti DVB felírat pozíció használata"
 
 msgid "Use original teletext position"
 msgstr "Eredeti teletext-elhelyezés megtartása"
@@ -9453,22 +9461,22 @@ msgid "Use power measurement"
 msgstr "Teljesítmény-felvétel mérése"
 
 msgid "Use slim screen"
-msgstr ""
+msgstr "Lapos kép használata"
 
 msgid "Use the Left/Right buttons on your remote to adjust the size of the user interface. Left button decreases the size, Right increases the size."
-msgstr ""
+msgstr "Bal/Jobb gombok használata a távirányítón a felhasználói felület méretének módosításához."
 
 msgid "Use the Left/Right buttons on your remote to move the user interface up/down"
-msgstr ""
+msgstr "Bal/Jobb gombok használata a távirányítón a felhasználói felület fel/le mozgatásához."
 
 msgid "Use the Left/Right buttons on your remote to move the user inyterface left/right"
-msgstr ""
+msgstr "Bal/Jobb gombok használata a távirányítón a felhasználói felület balra/jobbra mozgatásához"
 
 msgid "Use the alternative or the conventional radio mode."
-msgstr ""
+msgstr "Alternatív vagy hagyományos rádió mód használata."
 
 msgid "Use the alternative screen"
-msgstr ""
+msgstr "Alternatív kép használata"
 
 #
 #, fuzzy
@@ -9485,13 +9493,13 @@ msgid "Use the up/down keys on your remote control to select an option. After th
 msgstr "A fel/le nyílgombokkal változtathatja az opciót. Ez után nyomja le az OK-t."
 
 msgid "Use the wizard to set up basic features"
-msgstr ""
+msgstr "Varázsló használata az alap funkciók beállításához"
 
 msgid "Use these input device settings?"
-msgstr ""
+msgstr "Ezen beviteli ezközök hazsnálata?"
 
 msgid "Use these settings?"
-msgstr ""
+msgstr "Használja ezeket a beállításokat?"
 
 #
 msgid "Use this video enhancement settings?"
@@ -9508,10 +9516,10 @@ msgid "Used service scan type"
 msgstr "Használt szolgáltatás keresési típusa"
 
 msgid "Used:"
-msgstr ""
+msgstr "Használt:"
 
 msgid "User - bouquets"
-msgstr ""
+msgstr "Felhasznló - kedvencek"
 
 #
 msgid "User defined"
@@ -9523,7 +9531,7 @@ msgid "User defined transponder"
 msgstr "Előreprogramozott transzponder"
 
 msgid "User interface"
-msgstr ""
+msgstr "Felhasználói felület"
 
 #
 #, fuzzy
@@ -9535,28 +9543,27 @@ msgid "Username"
 msgstr "Felhasználónév"
 
 msgid "Username (httpuser)"
-msgstr ""
+msgstr "Felhasználó név"
 
 msgid "Username:"
-msgstr ""
+msgstr "Felhasználó név"
 
 #, python-format
 msgid "Using LNB %d"
-msgstr ""
+msgstr "%d LNB alkalmazása"
 
 msgid "Using fixed address"
-msgstr ""
+msgstr "Fix cím alkalmazása"
 
 msgid "Using old profile: "
-msgstr ""
+msgstr "Régi profil alkalmazása"
 
 #, python-format
 msgid "Using tuner %s"
-msgstr ""
+msgstr "%s tuner alkalmazása"
 
 msgid "Usually when the subtitle language is the same as the audio language, the subtitles will not be used. Enable this option to allow these subtitles to be used."
-msgstr ""
-
+msgstr "Rendszerint amikor a felírat nyelve megegyezik a hang nyelvével, a felírat nincs kijelezve. Amennyiben szeretné a felíratozást ilyenkor is látni, kapcsolja be ezt az opciót."
 #
 msgid "VCR scart"
 msgstr "VCR scart"
@@ -9571,7 +9578,7 @@ msgid "Version:\t%s"
 msgstr "Új verzió:"
 
 msgid "Version: "
-msgstr ""
+msgstr "Verzió: "
 
 #
 #, fuzzy, python-format
@@ -9583,20 +9590,20 @@ msgid "Vertical"
 msgstr "Függőleges"
 
 msgid "Vertical turning speed"
-msgstr ""
+msgstr "Vertikális forgási sebesség"
 
 msgid "ViX EPG"
-msgstr ""
+msgstr "VIX EPG"
 
 msgid "Video Enhancement Settings"
-msgstr ""
+msgstr "Videó kiemelési beállítások"
 
 msgid "Video PID"
-msgstr ""
+msgstr "Video PID"
 
 #, python-format
 msgid "Video content: %ix%i%s %iHz"
-msgstr ""
+msgstr "Videó tartalom: %ix%i%s %iHz""
 
 #
 msgid "Video enhancement preview"
@@ -9623,6 +9630,10 @@ msgid ""
 "\n"
 "The next input port will be automatically probed in 20 seconds."
 msgstr ""
+"Videó kimenet választása\n"
+"Kérem nyomja meg az OK-t ha látja ezt az oldalt a TV-n (vagy válasszon másik kimenetet).\n"
+"A következő kimenetet automatikusan 20 mp. múlva próbálja a készülék."
+
 
 #
 msgid "Video mode selection."
@@ -9634,29 +9645,29 @@ msgid "Video mode: %s"
 msgstr "Video mód kiválasztás"
 
 msgid "Video output"
-msgstr ""
+msgstr "Video kimenet"
 
 msgid "Video setup"
-msgstr ""
+msgstr "Video beállítás"
 
 msgid "Video wizard"
-msgstr ""
+msgstr "Video varázsló"
 
 #, python-format
-msgid "Video: %s fps"
-msgstr ""
+msgid "Video:. %s fps"
+msgstr "Video:. %s fps"
 
 msgid "Videocodec"
-msgstr ""
+msgstr "Videokódek"
 
 msgid "Videoformat"
-msgstr ""
+msgstr "Video formátum"
 
 msgid "Videosize"
-msgstr ""
+msgstr "Video méret"
 
 msgid "View"
-msgstr ""
+msgstr "Nézet"
 
 #
 msgid "View Movies..."
@@ -9728,7 +9739,7 @@ msgid "View list of available system extensions"
 msgstr "Az elérhető rendszer-Bővítmények listázása"
 
 msgid "View mode"
-msgstr ""
+msgstr "Előnézeti mód"
 
 #
 #, fuzzy
@@ -9740,7 +9751,7 @@ msgid "View teletext..."
 msgstr "Teletext megtekintése..."
 
 msgid "View the changes"
-msgstr ""
+msgstr "Változások megtekintése"
 
 #
 #, fuzzy
@@ -9764,7 +9775,7 @@ msgid "W"
 msgstr "Ny"
 
 msgid "WARNING: feeds may be unstable."
-msgstr ""
+msgstr "FIGYELEM: a forrás talán nem megbízható."
 
 #
 msgid "WEP"
@@ -9797,13 +9808,13 @@ msgid "Waiting"
 msgstr "Várakozás"
 
 msgid "Waiting for mount"
-msgstr ""
+msgstr "Várakozás a társításra"
 
 msgid "Waiting for partition"
-msgstr ""
+msgstr "Várakozás a párosításra"
 
 msgid "Wake Up"
-msgstr ""
+msgstr "Felébrestés"
 
 #
 #, fuzzy
@@ -9811,13 +9822,13 @@ msgid "Wake Up To Standby"
 msgstr "Mély-készenlét"
 
 msgid "Wakeup"
-msgstr ""
+msgstr "Felébresztés"
 
 msgid "Wakeup TV from standby"
-msgstr ""
+msgstr "TV felébresztése készenlétből"
 
 msgid "Wakeup signal from TV"
-msgstr ""
+msgstr "Felébresztő jel a tv-től"
 
 #
 #, fuzzy, python-format
@@ -9825,7 +9836,7 @@ msgid "Wakeup your %s %s from standby"
 msgstr "lekapcsolás készenléti módba"
 
 msgid "Warning: no LNB; using factory defaults."
-msgstr ""
+msgstr "Figyelem: nincs LNB; gyári beállítások használata."
 
 #
 #, fuzzy
@@ -9838,7 +9849,7 @@ msgid "Watch recordings..."
 msgstr "felvétel..."
 
 msgid "Web Interface"
-msgstr ""
+msgstr "Web felület"
 
 #
 msgid "Wed"
