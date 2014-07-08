@@ -10030,40 +10030,40 @@ msgid "When enabled, the receiver will automatically use the audio track which y
 msgstr ""
 
 msgid "When enabled, the receiver will automatically use the subtitles which you selected before."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor a beltéri automatikusan azt a felíratozást használja amit korábban kiválasztott."
 
 msgid "When enabled, the receiver will select an AC3 track (when available)."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor a beltéri az AC3-t fogja kiválasztani (ha elérhető)."
 
 msgid "When enabled, timeshift starts automatically in background after the specified time."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor a timeshift a háttérben elindul automatikusan a megadott időben."
 
 msgid "When enabled, use DHCP for the IP configuration."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor a DHCP lesz használva az IP konfigurálásakor."
 
 msgid "When enabled, your receiver will detect activity on the VCR SCART input."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor a beltéri felismerti az aktivitást a VCR scart kimenetet."
 
 msgid "When maximum space for all logs is reached, the oldest logs will be deleted."
-msgstr ""
+msgstr "Amikor elérte a log-ok mérete a maximálisan megadott értéket, a régi logok törlődni fognak."
 
 msgid "When nonzero, a recording will start earlier than the starting time indicated by the EPG."
-msgstr ""
+msgstr "Ha nem nulla, akkor a felvétel korábban indu mint az EPG-ben megjelölt időpont."
 
 msgid "When nonzero, a recording will stop later than the ending time indicated by the EPG."
-msgstr ""
+msgstr "Ha nem nulla, akkor a felvétle későő fog leállni mint az EPG-ben megadott időpont."
 
 msgid "When set each folder will show the previous state used, when off the default values will be shown."
-msgstr ""
+msgstr "Ha bekapcsolja, akkor a korábban megadott beállítások lesznek alkalmazva a mappára, ha kikapcsolja az alapértelmezett beállításokat használja."
 
 msgid "When set the PIG will return to live after a movie has stopped playing."
-msgstr ""
+msgstr "Ha beállítja a PIG-et, akkor a film lejátszás végén visszatér a TV műsorhoz."
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."
-msgstr ""
+msgstr "Ha a képarány 16:9 válassza ki, hogy nagyítás/nyújtás legyen."
 
 msgid "When the content has an aspect ratio of 4:3, choose whether to scale/stretch the picture."
-msgstr ""
+msgstr "Ha a képarány 4:3 válassza ki, hogy nagyítás/nyújtás legyen."
 
 msgid "When tuned to a service the system will normally scan the transponder for any changes and save them. Only set to 'yes' if you're absolutely sure of what you're doing."
 msgstr ""
