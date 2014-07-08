@@ -9801,7 +9801,7 @@ msgid "WSS on 4:3"
 msgstr "WSS 4:3-on"
 
 msgid "Wait please while scanning for devices..."
-msgstr ""
+msgstr "Kérem várjon amíg tart az eszközök keresése..."
 
 #
 msgid "Waiting"
@@ -9924,65 +9924,65 @@ msgid "West"
 msgstr "Nyugat"
 
 msgid "West limit set"
-msgstr ""
+msgstr "Nyugati határ beállítása"
 
 msgid "What Day of week ?"
-msgstr ""
+msgstr "A hét melyik napja?"
 
 msgid "What action is required on complettion of the timer? 'Auto' lets the box return to the state it had when the timer started. 'Do nothing', 'Go to standby' and 'Go to deep standby' do ecaxtly that."
-msgstr ""
+msgstr "Mi történjen, ha az időzítő befejeződött?"
 
 msgid "What date of month ?"
-msgstr ""
+msgstr "Melyik nap a hónapban?"
 
 #
 msgid "What do you want to scan?"
 msgstr "Mit szeretne lekeresni?"
 
 msgid "When enabled the online checker will also check for experimental versions"
-msgstr ""
+msgstr "Ha be van kapcsolva, akkor keresni fogja a kíséreti verziókat is"
 
 msgid "When enabled, AIT data will be included in http streams. This allows a client receiver to use HbbTV."
-msgstr ""
+msgstr "Ha engedélyezve van az ATI adat olvasás, akkor a kliens beltéri használhatja a HbbTV-t."
 
 msgid "When enabled, EIT data will be included in http streams. This allows a client receiver to show EPG."
-msgstr ""
+msgstr "Ha engedélyezve van az EIT adat olvasása, akkor a kliens beltéri mutatja az EPG-t."
 
 msgid "When enabled, a popup message will be shown when a movie has finished and the next one will start."
-msgstr ""
+msgstr "Ha engedélyezve van, egy felugró üzenet jelenik meg ha a film véget és aa következő kezdődne.."
 
 msgid "When enabled, a popup message will be shown when a recording starts."
-msgstr ""
+msgstr "Ha engedélyezve van, egy felugró üzenet jelenik meg mikor a felvétel elindul."
 
 msgid "When enabled, a recording is allowed to interrupt live TV, when there are no free tuners."
-msgstr ""
+msgstr "Ha engedélyezve van a felvételt megszakíthatja, ha nincs szabad tuner."
 
 msgid "When enabled, a warning will be displayed and the user will get an option to stop or to continue the timeshift."
-msgstr ""
+msgstr "Ha engedélyezve van, egy figyelmeztető üzenet jelenik meg, hogy leállítsa illetve folytassa a timeshiftet. "
 
 msgid "When enabled, channel numbering will start at '1' for every bouquet."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor minden csatorna száma '1'-el fog kezdődni minden kedvencek listában."
 
 msgid "When enabled, content with an aspect ratio of 4:3 will be stretched to fit the screen."
-msgstr ""
+msgstr "Ha engedélyeve van, akkor a 4:3-as képarányt kinyújta a teljes képernyőre. "
 
 msgid "When enabled, continue to the next bouquet when the last channel of the current bouquet is reached."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor a jelenlegi kedvencek lista utolsó csatornája után a következő kedvencek listára ugrik."
 
 msgid "When enabled, deleted recordings are moved to the trash can, instead of being deleted immediately."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor a felvételek törléskor a kukába kerülnek és nem törlődnek véglegesen."
 
 msgid "When enabled, external subtitles will always be turned on for movie playback."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor a külső felíratozás mindig látható ha egy filmet játszik le."
 
 msgid "When enabled, graphical DVB subtitles are preferred over teletext subtitles, when both types are available."
-msgstr ""
+msgstr "Ha engedéleyzve van, akkor a DVB felíratozást jeleníti meg és nem a teletext felíratozást."
 
 msgid "When enabled, graphical DVB subtitles will be centered horizontally."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor a DVB felíratozás mindig középen jelenik meg."
 
 msgid "When enabled, graphical DVB subtitles will be displayed at their original position."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor a DVB felíratozás mindig az eredeti pozícióban jelenik meg."
 
 msgid "When enabled, graphical DVB subtitles will be displayed in yellow, instead of the original color."
 msgstr ""
