@@ -803,7 +803,7 @@ msgid "Add a record timer for current event"
 msgstr "Időzítés a jelenlegi eseményhez"
 
 msgid "Add a zap timer for current event"
-msgstr ""
+msgstr "Időzitett átkapcsolás a jelenlegi eseményre"
 
 #
 #, fuzzy
@@ -950,7 +950,7 @@ msgid "Allow subtitle language to equal audio language"
 msgstr "Felirat engedélyezése az azonos hang nyelvekhez"
 
 msgid "Allow subtitles for hearing impaired"
-msgstr ""
+msgstr "Halláskárosultaknak szánt felirat bekapcsolása"
 
 msgid "Allow unstable (experimental) updates"
 msgstr "Kisérleti frissítések engedélyezése"
