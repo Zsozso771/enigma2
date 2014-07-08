@@ -10000,31 +10000,31 @@ msgid "When enabled, pressing '0' will zap you to the first channel in your firs
 msgstr "Ha engedélyezve van és lenyomja a '0' gombot, akkor az első csatornára ugrik az első favorit listában és törli az előzményeket. "
 
 msgid "When enabled, show channel numbers in the channel selection screen."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor mutatja a csatorna számát a csatorna kiválasztó képernyőn."
 
 msgid "When enabled, subtitles for the hearing impaired can be used."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor a felíratozást a hallássérűltek is használhatják."
 
 msgid "When enabled, subtitles for the hearing impaired will be preferred over normal subtitles, when both types are available."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor a hallássérűltek számára készült felíratozás lesz az elsődleges. "
 
 msgid "When enabled, teletext pages will be cached, allowing faster access."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor a teletext bufferelni fog, így gyorsabb lesz az oldalak megjelenítése."
 
 msgid "When enabled, teletext subtitles will be displayed at their original position."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor a teletext felíratozás az eredeti pozícióban lesz megjelenítve."
 
 msgid "When enabled, the PiP can be closed by the EXIT button."
-msgstr ""
+msgstr "Ha engedélyezve van, leáll a PiP funkció, ha megnyomja az EXIT gombot."
 
 msgid "When enabled, the VCR scart option will be shown in the main menu"
-msgstr ""
+msgstr "Ha engedélyezve van, akkor a VCR scart opciók mutatva lesznek a főmenüben."
 
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor mutatja, a filmek listájában a filmek hosszát. (Ez megnöveli a betöltési időt)."
 
 msgid "When enabled, the original line breaks will be removed from the teletext subtitles."
-msgstr ""
+msgstr "Ha engedélyezve van, az eredeti sortörések el lesznek távolítva a teletext felíratozásből."
 
 msgid "When enabled, the receiver will automatically use the audio track which you selected before."
 msgstr ""
