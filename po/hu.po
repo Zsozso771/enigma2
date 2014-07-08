@@ -9985,10 +9985,10 @@ msgid "When enabled, graphical DVB subtitles will be displayed at their original
 msgstr "Ha engedélyezve van, akkor a DVB felíratozás mindig az eredeti pozícióban jelenik meg."
 
 msgid "When enabled, graphical DVB subtitles will be displayed in yellow, instead of the original color."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor a DVB felíratozás mindig sárgán jelenik meg, figyelmen kívül hagyva az eredeti színt."
 
 msgid "When enabled, it is possible to leave the Movie Player with exit."
-msgstr ""
+msgstr "Ha engedélyezve van, akkor ha lehetséges kilép a Movie Player-ből. "
 
 msgid "When enabled, measure power consumption to detect when the rotor stops turning (when supported by the tuner)."
 msgstr ""
@@ -9997,7 +9997,7 @@ msgid "When enabled, network trash cans are probed for cleaning."
 msgstr ""
 
 msgid "When enabled, pressing '0' will zap you to the first channel in your first bouquet and delete your zap-history."
-msgstr ""
+msgstr "Ha engedélyezve van és lenyomja a '0' gombot, akkor az első csatornára ugrik az első favorit listában és törli az előzményeket. "
 
 msgid "When enabled, show channel numbers in the channel selection screen."
 msgstr ""
