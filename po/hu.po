@@ -610,6 +610,7 @@ msgid ""
 "A recording has been started:\n"
 "%s"
 msgstr "A felvétel megkezdődött:\n"
+"%s"
 
 #
 msgid ""
@@ -2901,6 +2902,7 @@ msgid ""
 "Do you want to attach a text file to explain the log ?\n"
 "(choose 'No' to type message using virtual keyboard.)"
 msgstr "Szeretne text file-t csatolni a log-hoz?\n"
+"(NEM: virtuális billentyűzet használata)"
 
 #
 msgid "Do you want to burn this collection to DVD medium?"
@@ -2959,6 +2961,7 @@ msgid ""
 "Do you want to send all selected files:\n"
 "(choose 'No' to only send the currently selected file.)"
 msgstr "Szeretné elküldeni az összes kiválasztott file-t:\n"
+"(NEM: csak a kiválasztott file elküldése)"
 
 #
 #, fuzzy, python-format
@@ -3274,6 +3277,7 @@ msgid ""
 "Error:\n"
 "%s"
 msgstr "Hiba:\n"
+"%s"
 
 #
 #, python-format
@@ -5363,6 +5367,10 @@ msgid ""
 "Free Space: %sMB\n"
 "Path: %s"
 msgstr "Nincs elég üres hely!\n"
+"\n"
+"File méret: %sMB\n"
+"Szabad hely: %sMB\n"
+"Útvonal: %s"
 
 msgid "Not mounted"
 msgstr "Nem társított"
@@ -7348,7 +7356,7 @@ msgstr "Állítsa be a főműsoridőt (Óra)"
 msgid "Set the desired primetime (minutes)."
 msgstr "Állítsa be a főműsoridőt (perc)"
 
-msgid "Set the jump-size of the seekbar
+msgid "Set the jump-size of the seekbar"
 msgstr "Állítsa be a keresési sáv léptetés nagyságát."
 
 msgid "Set the name the recording will get."
@@ -8483,8 +8491,7 @@ msgstr "Az EPGSearch kiegészítő nincs telepítve!\n"
 msgid ""
 "The Filesystem on your Timeshift-Device does not support hardlinks.\n"
 "Make sure it is formatted in EXT2 or EXT3!"
-msgstr "A filerendszer nem támogatja a Timeshift-et.\n"
-"GYőződjön meg róla, hogy EXT2 vagy EXT3 -ra van formázva!
+msgstr "A filerendszer nem támogatja a Timeshift-et.\nGYőződjön meg róla, hogy EXT2 vagy EXT3 -ra van formázva!"
 
 msgid ""
 "The IMDb plugin is not installed!\n"
@@ -8507,8 +8514,7 @@ msgstr "A megadott PIN-kódok eltérnek egymástól."
 msgid ""
 "The USB stick was prepared to be bootable.\n"
 "Now you can download an NFI image file!"
-msgstr "Az USB előkészíve a boothoz.\"
-"Letölthet egy NFI image file-t!
+msgstr "Az USB előkészíve a boothoz.\nLetölthet egy NFI image file-t!"
 
 #
 msgid "The backup failed. Please choose a different backup location."
@@ -8618,8 +8624,8 @@ msgstr ""
 msgid ""
 "The wireless LAN plugin is not installed!\n"
 "Please install it and choose what you want to do next."
-msgstr "A wilreless LAN kiegészítő nincs telepítve!\"
-"Kérem telepítse és válassza ki, hogy mi legyen a következő.
+msgstr "A wilreless LAN kiegészítő nincs telepítve!\n"
+"Kérem telepítse és válassza ki, hogy mi legyen a következő."
 
 #
 msgid ""
@@ -8728,10 +8734,10 @@ msgid "This option allows you to choose how to display 1080p 25Hz on your TV. (a
 msgstr "Ez az opció engedélyezi, hogy kiválaszthassa a TV-n a 1080p 25Hz felbontást. (nem minden TV támogatja)"
 
 msgid "This option allows you to choose how to display 1080p 30Hz on your TV. (as not all TV's support these resolutions)"
-msgstr ""Ez az opció engedélyezi, hogy kiválaszthassa a TV-n a 1080p 30Hz felbontást. (nem minden TV támogatja)""
+msgstr "Ez az opció engedélyezi, hogy kiválaszthassa a TV-n a 1080p 30Hz felbontást. (nem minden TV támogatja)"
 
 msgid "This option allows you to choose how to display 720p 24Hz on your TV. (as not all TV's support these resolutions)"
-msgstr ""Ez az opció engedélyezi, hogy kiválaszthassa a TV-n a 720p 24Hz felbontást. (nem minden TV támogatja)""
+msgstr "Ez az opció engedélyezi, hogy kiválaszthassa a TV-n a 720p 24Hz felbontást. (nem minden TV támogatja)"
 
 msgid "This option allows you to choose how to display elapsed time. As + or -"
 msgstr "Ez az opció engedélyezi, hogy megváltoztassa az eltelt időt. + vagy -"
@@ -9360,6 +9366,7 @@ msgstr "Frissítési forrás nem elérhető"
 msgid "Updating software catalog"
 msgstr "Szoftver-katalógus frissítése"
 
+#
 msgid "Upgrade and reboot system"
 msgstr "Frissítés és rendszer újraindítás"
 
@@ -9375,6 +9382,7 @@ msgid ""
 msgstr ""
 "Frissítés folyamatban\n"
 "Kérem várjon amíg a %s %s újraindul\n"
+"Ez több percig is eltarthat"
 
 msgid "Upgrading"
 msgstr "Frissítés"
@@ -9603,7 +9611,7 @@ msgstr "Video PID"
 
 #, python-format
 msgid "Video content: %ix%i%s %iHz"
-msgstr "Videó tartalom: %ix%i%s %iHz""
+msgstr "Videó tartalom: %ix%i%s %iHz"
 
 #
 msgid "Video enhancement preview"
@@ -10145,6 +10153,7 @@ msgid ""
 "Write error while recording. Disk full?\n"
 "%s"
 msgstr "Írási hiba. Tele van a lemez?\n"
+"%s"
 
 #
 msgid "Write failed!"
@@ -10215,7 +10224,7 @@ msgstr "Igen, térjen vissza a felvételek listájához"
 
 #
 msgid "Yes, shut down now."
-msgstr "Igen, hajtsunk végre most egy kikapcsolást."
+msgstr "Igen, kikapcsolás."
 
 msgid "Yesterday"
 msgstr "Tegnap"
@@ -10225,8 +10234,9 @@ msgid ""
 "You already have a bootlogo installed,\n"
 "would you like to remove\n"
 "\"%s\"?"
-msgstr "Már telepítve van egy bootlogo,\n
+msgstr "Már telepítve van egy bootlogo,\n"
 "szeretné eltávolítani\n"
+"\"%s\"?"
 
 #, python-format
 msgid ""
@@ -10378,7 +10388,7 @@ msgid ""
 "Your %s %s will be restarted after the installation of service\n"
 "Ready to install \"%s\" ?"
 msgstr "Az Ön %s %s-e újra fog indulni miután telepítette ezt a szolgáltatást\n"
-"Készen áll a telepítésre \"%s\ ?"
+"Készen áll a telepítésre \"%s\" ?"
 
 #, python-format
 msgid ""
@@ -10410,6 +10420,7 @@ msgid ""
 "Your config file is not well-formed:\n"
 "%s"
 msgstr "A konfigurációs file nincs formázva:\n"
+"%s"
 
 #
 msgid "Your current collection will get lost!"
